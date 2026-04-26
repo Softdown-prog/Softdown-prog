@@ -1,0 +1,6 @@
+DOSBox version 0.74-3
+Copyright 2002-2019 DOSBox Team, published under GNU GPL.
+---
+CONFIG:Loading primary settings from config file C:\Users\User\Downloads\Telegram Desktop\launcher_DosBox V. 0.74-3\games\fallout_1\dosbox_launcher.conf
+MIDI:Opened device:win32
+DOS keyboard layout loaded with main language code BR for layout br
